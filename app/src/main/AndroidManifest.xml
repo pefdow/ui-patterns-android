@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SiraHovShippingActivity"></activity>
+        <activity android:name=".SiraHovShippingActivity"
+            android:theme="@style/SiraHovShippingTheme"></activity>
     </application>
 
 </manifest>
